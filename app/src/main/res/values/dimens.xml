@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="list_item_padding">16dp</dimen>
+
+    <dimen name="location_marginLeft">16dp</dimen>
+
+    <dimen name="magnitude_diameter">36dp</dimen>
+    <dimen name="magnitude_text_size">16sp</dimen>
+    <dimen name="distance_text_size">12sp</dimen>
+    <dimen name="location_text_size">@dimen/magnitude_text_size</dimen>
+    <dimen name="date_time_text_size">@dimen/distance_text_size</dimen>
+</resources>
